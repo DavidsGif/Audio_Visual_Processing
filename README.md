@@ -1,8 +1,11 @@
 # Audio_Visual_Processing
 #Frequency Art
 
-Audio reactive visualiser controller 
+Audio reactive visualiser controller
 
+I was only able to upload the song "ruminnate". "Blue Skies" was too large to upload.
+
+Enjoy :)
 
 
 Inspired Projects and References: 
